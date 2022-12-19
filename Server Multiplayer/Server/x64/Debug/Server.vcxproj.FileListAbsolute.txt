@@ -1,2 +1,0 @@
-C:\Users\Mihai\Desktop\Multiplayer Explained\Laborator\Server\x64\Debug\Server.exe
-D:\Zina\Gameloft\Server Multiplayer\Server\x64\Debug\Server.exe

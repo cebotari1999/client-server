@@ -1,5 +1,0 @@
-﻿  Client.cpp
-D:\Zina\Gameloft\Server Multiplayer\Client\Client.cpp(217,13): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
-D:\Zina\Gameloft\Server Multiplayer\Client\Client.cpp(187,9): warning C4101: 'iResult': unreferenced local variable
-D:\Zina\Gameloft\Server Multiplayer\Client\Client.cpp(183): warning C4715: 'CloseSocket': not all control paths return a value
-  Client.vcxproj -> D:\Zina\Gameloft\Server Multiplayer\Client\x64\Debug\Client.exe

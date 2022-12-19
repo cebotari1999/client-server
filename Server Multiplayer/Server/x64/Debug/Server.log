@@ -1,4 +1,0 @@
-﻿  Server.cpp
-D:\Zina\Gameloft\Server Multiplayer\Server\Server.cpp(255,13): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
-D:\Zina\Gameloft\Server Multiplayer\Server\Server.cpp(71): warning C4715: 'BindSocket': not all control paths return a value
-  Server.vcxproj -> D:\Zina\Gameloft\Server Multiplayer\Server\x64\Debug\Server.exe
